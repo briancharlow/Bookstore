@@ -1,0 +1,1 @@
+SELECT BookID, AuthorID, Title FROM Bookstable WHERE Title='Book2';
